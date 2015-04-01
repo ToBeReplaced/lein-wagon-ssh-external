@@ -1,4 +1,4 @@
-(defproject lein-wagon-ssh-external "0.1.0-SNAPSHOT"
+(defproject lein-wagon-ssh-external "0.1.0"
   :description "Use the wagon-ssh-external provider."
   :url "https://github.com/ToBeReplaced/lein-wagon-ssh-external"
   :license {:name "Eclipse Public License"
