@@ -14,7 +14,7 @@ This is a minimalist wrapper for:
 Add the following to your project's `:plugins`:
 
 ```clojure
-[lein-webdav "0.1.0"]
+[lein-wagon-ssh-external "0.1.0"]
 ```
 
 Then, you can use a repository with "scp" as the scheme, like:
@@ -36,5 +36,4 @@ complete.
 
 Copyright © 2015 ToBeReplaced
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License.
